@@ -1,6 +1,6 @@
 export const contactList = [
     {
-        content : `<h3>YasaHome.</h3>
+        content : `<h3>Alayasa.</h3>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint, culpa!</p>
                 `
     },
